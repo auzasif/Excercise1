@@ -62,6 +62,9 @@ form {
   margin-right: 50px;
   padding-bottom: 10px;
   padding-top: 5px;
+  diplay:flex;
+  flex-direction:column;
+  align-item:center;
 }
 .formcontainer {
   text-align: center;
